@@ -1,2 +1,2 @@
-# myFirRepository
-创建了我的第一个文件库
+﻿# myFirRepository
+创建了我的第一个文件管理库
